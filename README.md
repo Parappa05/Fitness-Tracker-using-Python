@@ -15,29 +15,30 @@ This project provides a **personalized fitness tracking system** that predicts t
 - **Programming Language:** Python
 - **Framework:** Streamlit
 - **Machine Learning Model:** Decision Tree
-- **Dataset:** [Fitness Exercises using BFP & BMI (Kaggle)](https://www.kaggle.com/)
+- **Dataset:** final_dataset_BFP.csv
 - **Libraries:** NumPy, Pandas, Scikit-learn, Pickle
 
 ## 📂 Project Structure
 ```
-├── fitness_model.pkl  # Trained ML Model
-├── app.py             # Streamlit UI Implementation
-├── README.md          # Project Documentation
-├── dataset.csv        # Dataset used for training
+├── train_model.py               # To Train ML Model
+├── final_dataset_BFP.csv        # Dataset used for training
+├── fitness_model.pkl            # Trained ML Model
+├── app.py                       # Streamlit UI Implementation
+├── README.md                    # Project Documentation
 ```
 
 ## 🎯 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <[your-repo-link](https://github.com/Parappa05/Fitness-Tracker-using-Python)>
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd fitness-tracker
-   ```
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+3. Run the train_model.py:
+   ```bash
+   python train_model.py 
    ```
 4. Run the Streamlit app:
    ```bash
@@ -45,7 +46,11 @@ This project provides a **personalized fitness tracking system** that predicts t
    ```
 
 ## 📊 Snapshots of Results
-(Add snapshots of UI and results here)
+![image](https://github.com/user-attachments/assets/88582794-2371-4b04-9248-3301736f4b98)
+- Enter the detailes
+![image](https://github.com/user-attachments/assets/fdb13c06-3e6e-427c-b5cf-39a07ee3f957)
+- You will get the Recommendation for Exercise and Diet Plan
+
 
 ## 📌 Future Enhancements
 - Integrate **more advanced ML models** for better predictions.
@@ -56,4 +61,4 @@ This project provides a **personalized fitness tracking system** that predicts t
 [GitHub Repo Link](<your-repo-link>)
 
 ## ✨ Contributors
-- **[Your Name]** - Developer & ML Engineer
+- **[Parappa Mathapti]** 
