@@ -30,7 +30,7 @@ This project provides a **personalized fitness tracking system** that predicts t
 ## 🎯 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <[your-repo-link](https://github.com/Parappa05/Fitness-Tracker-using-Python)>
+   git clone <(https://github.com/Parappa05/Fitness-Tracker-using-Python)>
    ```
 2. Install dependencies:
    ```bash
@@ -48,6 +48,7 @@ This project provides a **personalized fitness tracking system** that predicts t
 ## 📊 Snapshots of Results
 ![image](https://github.com/user-attachments/assets/88582794-2371-4b04-9248-3301736f4b98)
 - Enter the detailes
+
 ![image](https://github.com/user-attachments/assets/fdb13c06-3e6e-427c-b5cf-39a07ee3f957)
 - You will get the Recommendation for Exercise and Diet Plan
 
@@ -57,8 +58,6 @@ This project provides a **personalized fitness tracking system** that predicts t
 - Add **user authentication** for personalized tracking.
 - Implement **real-time progress tracking & visualization**.
 
-## 🔗 GitHub Repository
-[GitHub Repo Link](<your-repo-link>)
 
 ## ✨ Contributors
 - **[Parappa Mathapti]** 
