@@ -60,4 +60,4 @@ This project provides a **personalized fitness tracking system** that predicts t
 
 
 ## ✨ Contributors
-- **[Parappa Mathapti]** 
+- **[Parappa Mathpati]** 
